@@ -32,5 +32,12 @@ In NYC, there were some interesting results. Men are you biggest clientele. Men 
 [Tripdurations](https://public.tableau.com/authoring/Mod14Deliverable3/Deliverable3#1)
 ![image](https://user-images.githubusercontent.com/101307058/182297428-0eac535c-59c2-4294-87d1-d832d06a2159.png)
 
+[Top Locations Trips are Started From](https://public.tableau.com/authoring/Mod14_16589714679390/TopStartingLocations#1)
+
+![image](https://user-images.githubusercontent.com/101307058/182297605-ac92ca77-1133-4f30-ba9c-bfac75da500a.png)
+
+## Summary
+
+We are showing the investors that we have done the research on the bike sharing business in NYC and we can use that information to successfully start it here in Des Moines. Here is the Story we will show our investors to hopefully get the seed money we are looking for. https://public.tableau.com/shared/TX4P7SK2S?:display_count=n&:origin=viz_share_link
 
 
